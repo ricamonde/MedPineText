@@ -1,6 +1,6 @@
 **Soil properties and biogeochemical functioning in Mediterranean pine forests**
 
-** Abstract ** 
+**Abstract** 
 
 [comment]: # (Máximo 200 palabras)
 
